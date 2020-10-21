@@ -9,7 +9,6 @@ function App() {
     <Router>
       <div className='flex flex-col h-screen justify-between'>
         <Navbar />
-
         <ApplicationRouter />
         <Footer />
       </div>
